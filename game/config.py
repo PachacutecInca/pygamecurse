@@ -1,0 +1,12 @@
+WIDTH = 800
+HEIGHT = 400
+
+TITLE = 'Juego de la Rana'
+
+BLACK = (0, 0, 0)
+GREEN = (50, 240, 120)
+BLUE = (125, 67, 243)
+RED = (203, 89, 102)
+
+PLAYER_GRAV = 1.2
+SPEED = 5
